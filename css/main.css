@@ -1,0 +1,42 @@
+* {
+	font-family: Times New Roman;
+	margin: auto;
+	text-align: center;
+	background-color: white;
+}
+
+h1 {
+	background-color: grey;
+	color: white;
+}
+
+#navigation {
+	background-color: blue;
+
+border-radius: 8px;
+color: white;
+padding: 10px 24px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+
+#navigation:hover {
+background-color: green;
+}
+
+#finish {
+background-color: green;
+border-radius: 8px;
+color: white;
+padding: 10px 24px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+
+#finish:hover {
+background-color: grey;
+}
